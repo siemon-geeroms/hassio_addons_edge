@@ -3,7 +3,7 @@ channel: edge
 addons:
   emby:
     repository: haberda/emby-addon
-    target: emby
+    target: emby-addon
     image: ghcr.io/haberda/emby/{arch}
   nextcloud:
     repository: haberda/nextcloud-addon

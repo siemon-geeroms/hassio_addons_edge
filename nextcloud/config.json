@@ -1,7 +1,7 @@
 {
   "name": "Nextcloud for Home Assistant",
   "url": "https://github.com/haberda/hassio_addons/tree/master/nextcloud",
-  "version": "21.0.2",
+  "version": "b496ca0",
   "slug": "nextcloud",
   "arch": [
     "aarch64",
@@ -26,6 +26,8 @@
   },
   "webui": "https://[HOST]:[PORT:443]",
   "panel_icon": "mdi:cloud",
-  "snapshot_exclude":["*/nextcloud/log/"],
+  "snapshot_exclude": [
+    "*/nextcloud/log/"
+  ],
   "image": "ghcr.io/haberda/nextcloud/{arch}"
 }

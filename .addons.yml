@@ -9,3 +9,7 @@ addons:
     repository: haberda/signal-addon
     target: signal
     image: ghcr.io/haberda/signal_messenger/{arch}
+  emby:
+    repository: haberda/emby-addon
+    target: emby_addon
+    image: ghcr.io/haberda/emby/{arch}

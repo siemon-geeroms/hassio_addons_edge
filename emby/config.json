@@ -2,7 +2,7 @@
   "name": "emby",
   "url": "https://github.com/haberda/hassio_addons/tree/master/emby",
   "version": "4.6.1",
-    "slug": "emby",
+  "slug": "emby",
   "arch": [
     "aarch64",
     "amd64",

@@ -1,6 +1,6 @@
 {
   "name": "Jackett",
-  "version": "ffb0f2b",
+  "version": "d4a92d2",
   "slug": "jackett",
   "description": "Jackett for Home Assistant",
   "url": "https://github.com/haberda/jackett-addon",
@@ -33,6 +33,7 @@
   "hassio_api": true,
   "options": {
     "log_level": "info",
+    "local_network": "192.168.1.0/24",
     "openvpn_enabled": false,
     "openvpn_config": "",
     "openvpn_username": "",
@@ -40,6 +41,7 @@
   },
   "schema": {
     "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)",
+    "local_network": "str",
     "openvpn_enabled": "bool",
     "openvpn_config": "str",
     "openvpn_username": "str",

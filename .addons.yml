@@ -14,6 +14,6 @@ addons:
     target: jackett
     image: ghcr.io/haberda/jackett/{arch}
   emby:
-    repository: haberda/emby-media-server-addon
+    repository: haberda/emby-addon
     target: emby
     image: ghcr.io/haberda/emby/{arch}

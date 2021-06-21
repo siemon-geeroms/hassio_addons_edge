@@ -1,14 +1,2 @@
-# Changelog since 0.18.273
-- Update Dockerfile 
-- Update Dockerfile 
-- Update Dockerfile 
-- Update Dockerfile 
-- Update Dockerfile 
-- Update Dockerfile 
-- update README 
-- Update DOCS.md 
-- Update 21-openvpn-configuration 
-- Update config 
-- Update config.json 
-- Fix config 
-- Update to ghcr.io workflow 
+# Changelog since 0.18.329
+- Update to Jackett v0.18.364 

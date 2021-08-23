@@ -1,4 +1,6 @@
 # Changelog since 21.0.2
+- Merge branch 'main' of https://github.com/haberda/nextcloud-addon into main 
+- Update base to 22.1.0 
 - Merge pull request #10 from haberda/dependabot/github_actions/docker/build-push-action-2.7.0
 
 Bump docker/build-push-action from 2.6.1 to 2.7.0 

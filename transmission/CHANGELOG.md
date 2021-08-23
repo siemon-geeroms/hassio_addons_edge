@@ -1,4 +1,6 @@
 # Changelog since 0.6.4
+- Merge branch 'master' of https://github.com/haberda/hassio-addon-transmission 
+- Update base 
 - Merge pull request #9 from haberda/dependabot/github_actions/docker/build-push-action-2.7.0
 
 Bump docker/build-push-action from 2.5.0 to 2.7.0 

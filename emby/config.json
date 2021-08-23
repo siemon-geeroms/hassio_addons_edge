@@ -1,7 +1,7 @@
 {
   "name": "emby",
   "url": "https://github.com/haberda/emby-addon",
-  "version": "ce9b70c",
+  "version": "54422ac",
   "slug": "emby",
   "arch": [
     "aarch64",

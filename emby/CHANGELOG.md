@@ -1,7 +1,3 @@
-# Changelog since 4.6.3
-- Update to Emby 4.6.4.0 
-- Update to emby 4.6.3.0 
-- Update config.json 
-- Update config.json 
+# Changelog since 4.6.4
 - Add files via upload 
-- Create deploy.yaml 
+- Add files via upload 

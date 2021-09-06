@@ -1,4 +1,7 @@
 # Changelog since 0.18.329
+- Merge pull request #6 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.3
+
+Bump frenck/action-addon-linter from 2.2 to 2.3 
 - Update config.json 
 - Merge pull request #7 from haberda/dependabot/github_actions/docker/setup-buildx-action-1.6.0
 
@@ -12,6 +15,20 @@ Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action
 ---
 updated-dependencies:
 - dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump frenck/action-addon-linter from 2.2 to 2.3
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.2 to 2.3.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.2...v2.3)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
   dependency-type: direct:production
   update-type: version-update:semver-minor
 ...

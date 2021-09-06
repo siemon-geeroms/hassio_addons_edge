@@ -1,4 +1,5 @@
 # Changelog since 0.18.329
+- Update config.json 
 - Merge pull request #7 from haberda/dependabot/github_actions/docker/setup-buildx-action-1.6.0
 
 Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 

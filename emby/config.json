@@ -1,7 +1,7 @@
 {
   "name": "emby",
   "url": "https://github.com/haberda/emby-addon",
-  "version": "2450a43",
+  "version": "8f44f0e",
   "slug": "emby",
   "arch": [
     "aarch64",
@@ -13,7 +13,8 @@
   "boot": "manual",
   "map": [
     "share:rw",
-    "media:rw"
+    "media:rw",
+    "ssl:rw"
   ],
   "devices": [
     "/dev/dri",

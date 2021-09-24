@@ -1,4 +1,5 @@
 # Changelog since 4.6.4
+- Add ssl support 
 - Roll back to old base image 
 - Update Dockerfile 
 - Update Dockerfile 

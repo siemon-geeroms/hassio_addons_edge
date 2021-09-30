@@ -1,4 +1,5 @@
 # Changelog since 4.6.4
+- Update 30-config 
 - Merge pull request #9 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.4.1
 
 Bump frenck/action-addon-linter from 2.3 to 2.4.1 

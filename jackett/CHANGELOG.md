@@ -1,4 +1,24 @@
 # Changelog since 0.18.329
+- Merge pull request #11 from haberda/dependabot/github_actions/actions/checkout-2.3.5
+
+Bump actions/checkout from 2.3.4 to 2.3.5 
+- Update Jackett to v0.19.108 
+- Update base image to 5.1.1 
+- Bump actions/checkout from 2.3.4 to 2.3.5
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2.3.4...v2.3.5)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #9 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.4.1
 
 Bump frenck/action-addon-linter from 2.3 to 2.4.1 

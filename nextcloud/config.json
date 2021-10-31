@@ -1,7 +1,7 @@
 {
   "name": "Nextcloud for Home Assistant",
   "url": "https://github.com/haberda/hassio_addons/tree/master/nextcloud",
-  "version": "2ea05b1",
+  "version": "44e67c4",
   "slug": "nextcloud",
   "arch": [
     "aarch64",

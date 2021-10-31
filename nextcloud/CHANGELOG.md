@@ -1,4 +1,5 @@
 # Changelog since 21.0.2
+- Update to 22.2.0 
 - Merge pull request #15 from haberda/dependabot/github_actions/dessant/lock-threads-3
 
 Bump dessant/lock-threads from 2.1.2 to 3 

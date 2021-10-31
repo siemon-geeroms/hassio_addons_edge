@@ -1,4 +1,6 @@
 # Changelog since 0.6.4
+- Merge branch 'master' of https://github.com/haberda/hassio-addon-transmission 
+- Update to 10.1.1 
 - Merge pull request #13 from haberda/dependabot/github_actions/dessant/lock-threads-3
 
 Bump dessant/lock-threads from 2.1.2 to 3 

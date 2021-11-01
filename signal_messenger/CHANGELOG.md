@@ -1,4 +1,5 @@
 # Changelog since 0.42.0
+- Update to dev for testing 
 - Merge branch 'main' of https://github.com/haberda/signal-addon into main 
 - Remove native_mode variable to comply with upstream 
 - Merge pull request #13 from haberda/dependabot/github_actions/actions/checkout-2.3.5

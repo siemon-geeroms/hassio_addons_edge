@@ -1,4 +1,38 @@
 # Changelog since 0.6.4
+- Merge pull request #17 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.5
+
+Bump frenck/action-addon-linter from 2.4.1 to 2.5 
+- Merge pull request #16 from haberda/dependabot/github_actions/frenck/action-addon-information-1.3
+
+Bump frenck/action-addon-information from 1.2 to 1.3 
+- Bump frenck/action-addon-linter from 2.4.1 to 2.5
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.4.1 to 2.5.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.4.1...v2.5)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump frenck/action-addon-information from 1.2 to 1.3
+
+Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.2 to 1.3.
+- [Release notes](https://github.com/frenck/action-addon-information/releases)
+- [Commits](https://github.com/frenck/action-addon-information/compare/v1.2...v1.3)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-information
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge branch 'master' of https://github.com/haberda/hassio-addon-transmission 
 - Update to 10.1.1 
 - Merge pull request #13 from haberda/dependabot/github_actions/dessant/lock-threads-3

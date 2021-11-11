@@ -1,4 +1,5 @@
 # Changelog since 0.42.0
+- Update to latest stable base 0.53 
 - Update to 0.82 dev for testing 
 - Merge pull request #14 from haberda/dependabot/github_actions/frenck/action-addon-information-1.3
 

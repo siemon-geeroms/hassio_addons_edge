@@ -1,4 +1,8 @@
 # Changelog since 22.2.0
+- Update to 22.2.3 base image 
+- Turn off memory limits
+
+This makes Nextcloud much faster; memory limited machines may have an issue 
 - Merge pull request #18 from haberda/dependabot/github_actions/frenck/action-addon-information-1.3
 
 Bump frenck/action-addon-information from 1.2 to 1.3 

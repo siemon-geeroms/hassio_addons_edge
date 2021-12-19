@@ -1,4 +1,23 @@
 # Changelog since 0.42.0
+- Update Dockerfile 
+- Merge pull request #17 from haberda/dependabot/github_actions/actions/cache-2.1.7
+
+Bump actions/cache from 2.1.6 to 2.1.7 
+- Update build.json 
+- Bump actions/cache from 2.1.6 to 2.1.7
+
+Bumps [actions/cache](https://github.com/actions/cache) from 2.1.6 to 2.1.7.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.6...v2.1.7)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Update to latest stable base 0.53 
 - Update to 0.82 dev for testing 
 - Merge pull request #14 from haberda/dependabot/github_actions/frenck/action-addon-information-1.3

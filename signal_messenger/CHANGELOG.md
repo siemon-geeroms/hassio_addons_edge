@@ -1,6 +1,7 @@
 # Changelog since 0.42.0
 - Update options.sh 
 - Update options.sh 
+- Update options.sh 
 - Merge branch 'main' of https://github.com/haberda/signal-addon 
 - Update config.json 
 - Merge pull request #18 from haberda/dependabot/github_actions/docker/login-action-1.12.0

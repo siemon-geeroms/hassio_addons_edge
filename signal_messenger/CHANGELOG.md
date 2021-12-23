@@ -1,6 +1,7 @@
 # Changelog since 0.42.0
 - Update options.sh 
 - Update options.sh 
+- Update options.sh 
 - Update options 
 - Update options.sh 
 - Update options.sh 

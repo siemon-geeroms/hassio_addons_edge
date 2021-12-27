@@ -1,4 +1,5 @@
 # Changelog since 0.42.0
+- Update DOCS.md 
 - Update options.sh 
 - Update options.sh 
 - Update options.sh 

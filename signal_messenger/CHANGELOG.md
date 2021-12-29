@@ -1,4 +1,5 @@
 # Changelog since 0.54.0
+- Update options.sh 
 - Merge branch 'main' of https://github.com/haberda/signal-addon 
 - Update options.sh 
 - Update options.sh 

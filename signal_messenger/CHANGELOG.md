@@ -1,4 +1,6 @@
 # Changelog since 0.54.0
+- Merge branch 'main' of https://github.com/haberda/signal-addon 
+- Update options.sh 
 - Update options.sh 
 - Clean up options script 
 - Fix json-rpc typo 

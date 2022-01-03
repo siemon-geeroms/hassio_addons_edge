@@ -1,4 +1,25 @@
 # Changelog since 0.6.4
+- Merge pull request #20 from haberda/dependabot/github_actions/actions/stale-4.1.0
+
+Bump actions/stale from 3.0.19 to 4.1.0 
+- Update package versions 
+- Update Dockerfile 
+- Update to base 11.0.0 
+- Bump actions/stale from 3.0.19 to 4.1.0
+
+Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.1.0.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/stale/compare/v3.0.19...v4.1.0)
+
+---
+updated-dependencies:
+- dependency-name: actions/stale
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #17 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.5
 
 Bump frenck/action-addon-linter from 2.4.1 to 2.5 

@@ -1,10 +1,27 @@
 # Changelog since 0.6.4
+- Merge pull request #21 from haberda/dependabot/github_actions/docker/login-action-1.12.0
+
+Bump docker/login-action from 1.10.0 to 1.12.0 
 - Merge pull request #20 from haberda/dependabot/github_actions/actions/stale-4.1.0
 
 Bump actions/stale from 3.0.19 to 4.1.0 
 - Update package versions 
 - Update Dockerfile 
 - Update to base 11.0.0 
+- Bump docker/login-action from 1.10.0 to 1.12.0
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from 1.10.0 to 1.12.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v1.10.0...v1.12.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Bump actions/stale from 3.0.19 to 4.1.0
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.1.0.

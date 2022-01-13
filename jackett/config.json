@@ -1,6 +1,6 @@
 {
   "name": "Jackett",
-  "version": "45df7dc",
+  "version": "1e28c2e",
   "slug": "jackett",
   "description": "Jackett for Home Assistant",
   "url": "https://github.com/haberda/jackett-addon",

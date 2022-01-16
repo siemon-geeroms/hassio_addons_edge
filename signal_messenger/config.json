@@ -1,7 +1,7 @@
 {
   "name": "Signal Messenger",
   "url": "https://github.com/haberda/signal-addon/tree/master/",
-  "version": "e5022ee",
+  "version": "80f11cd",
   "slug": "signal_messenger",
   "arch": [
     "aarch64",

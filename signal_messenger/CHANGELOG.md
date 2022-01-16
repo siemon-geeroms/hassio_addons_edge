@@ -1,9 +1,18 @@
-# Changelog since 0.54.0
-- Update options.sh 
-- Merge branch 'main' of https://github.com/haberda/signal-addon 
-- Update options.sh 
-- Update options.sh 
-- Clean up options script 
-- Fix json-rpc typo 
-- Merge branch 'main' of https://github.com/haberda/signal-addon 
-- Fix environmentvariable setting 
+# Changelog since 0.54.1
+- Merge pull request #20 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.6
+
+Bump frenck/action-addon-linter from 2.5 to 2.6 
+- Bump frenck/action-addon-linter from 2.5 to 2.6
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.5 to 2.6.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.5...v2.6)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 

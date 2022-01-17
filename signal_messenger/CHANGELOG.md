@@ -1,4 +1,6 @@
 # Changelog since 0.54.1
+- Update to upstream version 0.55 
+- Update to upstream version 0.55 
 - Merge pull request #20 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.6
 
 Bump frenck/action-addon-linter from 2.5 to 2.6 

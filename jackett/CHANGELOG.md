@@ -1,4 +1,5 @@
 # Changelog since 0.20.299
+- Update Jackett to v0.20.428 
 - Merge pull request #18 from haberda/dependabot/github_actions/docker/build-push-action-2.8.0
 
 Bump docker/build-push-action from 2.7.0 to 2.8.0 

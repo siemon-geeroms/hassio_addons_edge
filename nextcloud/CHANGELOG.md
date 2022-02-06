@@ -1,4 +1,5 @@
 # Changelog since 23.0.0
+- Update trusted domain docs 
 - Merge pull request #26 from haberda/dependabot/github_actions/release-drafter/release-drafter-5.17.5
 
 Bump release-drafter/release-drafter from 5.16.1 to 5.17.5 

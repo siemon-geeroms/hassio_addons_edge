@@ -1,18 +1,16 @@
-# Changelog since 0.54.1
-- Update to upstream version 0.55 
-- Update to upstream version 0.55 
-- Merge pull request #20 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.6
+# Changelog since 0.55.0
+- Merge pull request #23 from haberda/dependabot/github_actions/docker/build-push-action-2.9.0
 
-Bump frenck/action-addon-linter from 2.5 to 2.6 
-- Bump frenck/action-addon-linter from 2.5 to 2.6
+Bump docker/build-push-action from 2.7.0 to 2.9.0 
+- Bump docker/build-push-action from 2.7.0 to 2.9.0
 
-Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.5 to 2.6.
-- [Release notes](https://github.com/frenck/action-addon-linter/releases)
-- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.5...v2.6)
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.7.0 to 2.9.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v2.7.0...v2.9.0)
 
 ---
 updated-dependencies:
-- dependency-name: frenck/action-addon-linter
+- dependency-name: docker/build-push-action
   dependency-type: direct:production
   update-type: version-update:semver-minor
 ...

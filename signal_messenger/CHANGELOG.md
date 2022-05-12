@@ -1,37 +1,50 @@
-# Changelog since 0.58.0
-- Merge pull request #36 from haberda/dependabot/github_actions/actions/stale-5
+# Changelog since 0.59.0
+- Merge pull request #41 from haberda/dependabot/github_actions/docker/build-push-action-3.0.0
 
-Bump actions/stale from 4 to 5 
-- Merge pull request #37 from haberda/dependabot/github_actions/actions/cache-3.0.2
+Bump docker/build-push-action from 2.10.0 to 3.0.0 
+- Merge pull request #40 from haberda/dependabot/github_actions/docker/setup-buildx-action-2.0.0
 
-Bump actions/cache from 3.0.1 to 3.0.2 
-- Update Dockerfile 
-- Update to upstream 0.59 
-- Bump actions/cache from 3.0.1 to 3.0.2
+Bump docker/setup-buildx-action from 1.6.0 to 2.0.0 
+- Merge pull request #39 from haberda/dependabot/github_actions/docker/setup-qemu-action-2.0.0
 
-Bumps [actions/cache](https://github.com/actions/cache) from 3.0.1 to 3.0.2.
-- [Release notes](https://github.com/actions/cache/releases)
-- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
-- [Commits](https://github.com/actions/cache/compare/v3.0.1...v3.0.2)
+Bump docker/setup-qemu-action from 1.2.0 to 2.0.0 
+- Bump docker/build-push-action from 2.10.0 to 3.0.0
+
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.10.0 to 3.0.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v2.10.0...v3.0.0)
 
 ---
 updated-dependencies:
-- dependency-name: actions/cache
+- dependency-name: docker/build-push-action
   dependency-type: direct:production
-  update-type: version-update:semver-patch
+  update-type: version-update:semver-major
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Bump actions/stale from 4 to 5
+- Bump docker/setup-buildx-action from 1.6.0 to 2.0.0
 
-Bumps [actions/stale](https://github.com/actions/stale) from 4 to 5.
-- [Release notes](https://github.com/actions/stale/releases)
-- [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/stale/compare/v4...v5)
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 1.6.0 to 2.0.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v1.6.0...v2.0.0)
 
 ---
 updated-dependencies:
-- dependency-name: actions/stale
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump docker/setup-qemu-action from 1.2.0 to 2.0.0
+
+Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 1.2.0 to 2.0.0.
+- [Release notes](https://github.com/docker/setup-qemu-action/releases)
+- [Commits](https://github.com/docker/setup-qemu-action/compare/v1.2.0...v2.0.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-qemu-action
   dependency-type: direct:production
   update-type: version-update:semver-major
 ...

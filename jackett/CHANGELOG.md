@@ -1,4 +1,5 @@
 # Changelog since 0.20.805
+- Rollback base image to 5.2.3 
 - Merge pull request #36 from haberda/dependabot/github_actions/docker/login-action-2.0.0
 
 Bump docker/login-action from 1.14.1 to 2.0.0 

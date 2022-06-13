@@ -1,4 +1,6 @@
 # Changelog since 0.59.0
+- Update Dockerfile 
+- Update to upstream 0.60 
 - Merge pull request #42 from haberda/dependabot/github_actions/docker/login-action-2.0.0
 
 Bump docker/login-action from 1.14.1 to 2.0.0 

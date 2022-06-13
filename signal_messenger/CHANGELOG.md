@@ -1,6 +1,24 @@
 # Changelog since 0.59.0
+- Merge pull request #45 from haberda/dependabot/github_actions/actions/cache-3.0.4
+
+Bump actions/cache from 3.0.2 to 3.0.4 
 - Update Dockerfile 
 - Update to upstream 0.60 
+- Bump actions/cache from 3.0.2 to 3.0.4
+
+Bumps [actions/cache](https://github.com/actions/cache) from 3.0.2 to 3.0.4.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v3.0.2...v3.0.4)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #42 from haberda/dependabot/github_actions/docker/login-action-2.0.0
 
 Bump docker/login-action from 1.14.1 to 2.0.0 

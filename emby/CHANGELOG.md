@@ -1,4 +1,5 @@
 # Changelog since 4.6.7
+- Roll back base image to 7.1.4 
 - Merge pull request #39 from haberda/haberda-patch-1
 
 Update build.json to 8.0.0 

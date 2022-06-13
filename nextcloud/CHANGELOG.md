@@ -1,4 +1,23 @@
 # Changelog since 23.0.2
+- Merge pull request #51 from haberda/dependabot/github_actions/release-drafter/release-drafter-5.20.0
+
+Bump release-drafter/release-drafter from 5.18.1 to 5.20.0 
+- Update Dockerfile 
+- Update to 24.0.1 
+- Bump release-drafter/release-drafter from 5.18.1 to 5.20.0
+
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from 5.18.1 to 5.20.0.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.18.1...v5.20.0)
+
+---
+updated-dependencies:
+- dependency-name: release-drafter/release-drafter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #45 from haberda/dependabot/github_actions/actions/cache-3.0.2
 
 Bump actions/cache from 2.1.7 to 3.0.2 

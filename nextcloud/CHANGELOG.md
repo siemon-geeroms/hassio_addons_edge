@@ -1,4 +1,24 @@
 # Changelog since 23.0.2
+- Update build.json 
+- Merge pull request #52 from haberda/dependabot/github_actions/actions/cache-3.0.4
+
+Bump actions/cache from 3.0.2 to 3.0.4 
+- Fix container endpoint 
+- Bump actions/cache from 3.0.2 to 3.0.4
+
+Bumps [actions/cache](https://github.com/actions/cache) from 3.0.2 to 3.0.4.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v3.0.2...v3.0.4)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #51 from haberda/dependabot/github_actions/release-drafter/release-drafter-5.20.0
 
 Bump release-drafter/release-drafter from 5.18.1 to 5.20.0 

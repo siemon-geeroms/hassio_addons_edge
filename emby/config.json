@@ -1,7 +1,7 @@
 {
   "name": "emby",
   "url": "https://github.com/haberda/emby-addon",
-  "version": "0145874",
+  "version": "c0b43eb",
   "slug": "emby",
   "privileged": [
     "SYS_ADMIN",

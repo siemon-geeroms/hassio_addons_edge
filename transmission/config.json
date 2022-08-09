@@ -1,6 +1,6 @@
 {
   "name": "Transmission",
-  "version": "833f380",
+  "version": "ef595df",
   "slug": "transmission",
   "description": "The torrent client for Hass.io with OpenVPN support",
   "url": "https://github.com/pierrickrouxel/hassio-addon-transmission",
@@ -62,5 +62,6 @@
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
   },
+  "init": false,
   "image": "ghcr.io/haberda/transmission/{arch}"
 }

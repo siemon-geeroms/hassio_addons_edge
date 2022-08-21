@@ -1,4 +1,6 @@
 # Changelog since 24.0.3
+- Update README.md 
+- Update README.md 
 - Update to 24.0.4 
 - Merge pull request #60 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.10
 

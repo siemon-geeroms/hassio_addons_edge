@@ -1,4 +1,25 @@
 # Changelog since 0.20.1563
+- Merge pull request #53 from haberda/dependabot/github_actions/actions/cache-3.0.10
+
+Bump actions/cache from 3.0.9 to 3.0.10 
+- Update build.json 
+- Update base image to 6.1.2 
+- Update to Jackett v0.20.2094 
+- Bump actions/cache from 3.0.9 to 3.0.10
+
+Bumps [actions/cache](https://github.com/actions/cache) from 3.0.9 to 3.0.10.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v3.0.9...v3.0.10)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #44 from haberda/dependabot/github_actions/docker/build-push-action-3.1.1
 
 Bump docker/build-push-action from 3.1.0 to 3.1.1 

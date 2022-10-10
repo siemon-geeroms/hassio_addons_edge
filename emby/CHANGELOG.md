@@ -1,4 +1,24 @@
 # Changelog since 4.7.6
+- Merge pull request #53 from haberda/dependabot/github_actions/actions/cache-3.0.10
+
+Bump actions/cache from 3.0.9 to 3.0.10 
+- Update base to 8.1.1 
+- Update emby to 4.7.8.0 
+- Bump actions/cache from 3.0.9 to 3.0.10
+
+Bumps [actions/cache](https://github.com/actions/cache) from 3.0.9 to 3.0.10.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v3.0.9...v3.0.10)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #51 from haberda/dependabot/github_actions/actions/stale-6.0.0
 
 Bump actions/stale from 5.1.1 to 6.0.0 

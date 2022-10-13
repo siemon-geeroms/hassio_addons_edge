@@ -1,64 +1,69 @@
-# Changelog since 0.61.0
-- Update to 0.63 
-- Update to upstream 0.63 
-- Merge pull request #57 from haberda/dependabot/github_actions/actions/cache-3.0.10
+# Changelog since 0.63.0
+- Merge pull request #64 from haberda/dependabot/github_actions/docker/setup-qemu-action-2.1.0
 
-Bump actions/cache from 3.0.9 to 3.0.10 
-- Merge pull request #59 from aneisch/patch-1
+Bump docker/setup-qemu-action from 2.0.0 to 2.1.0 
+- Merge pull request #63 from haberda/dependabot/github_actions/docker/build-push-action-3.2.0
 
-Update build.json for dev 0.63 build 
-- Update build.json
+Bump docker/build-push-action from 3.0.0 to 3.2.0 
+- Merge pull request #62 from haberda/dependabot/github_actions/docker/setup-buildx-action-2.1.0
 
-Due to an older UserAgent in version 0.62, signal servers are rejecting client connections. (See https://github.com/bbernhard/signal-cli-rest-api/issues/286, https://github.com/bbernhard/signal-cli-rest-api/issues/287). This dev build resolves the issue while the maintainer of signal-cli-rest-api works to update the repo to the latest version of signal-cli. 
-- Bump actions/cache from 3.0.9 to 3.0.10
+Bump docker/setup-buildx-action from 2.0.0 to 2.1.0 
+- Merge pull request #61 from haberda/dependabot/github_actions/docker/login-action-2.1.0
 
-Bumps [actions/cache](https://github.com/actions/cache) from 3.0.9 to 3.0.10.
-- [Release notes](https://github.com/actions/cache/releases)
-- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
-- [Commits](https://github.com/actions/cache/compare/v3.0.9...v3.0.10)
+Bump docker/login-action from 2.0.0 to 2.1.0 
+- Bump docker/setup-qemu-action from 2.0.0 to 2.1.0
 
----
-updated-dependencies:
-- dependency-name: actions/cache
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #55 from haberda/dependabot/github_actions/actions/stale-6
-
-Bump actions/stale from 5 to 6 
-- Merge pull request #56 from haberda/dependabot/github_actions/actions/cache-3.0.9
-
-Bump actions/cache from 3.0.4 to 3.0.9 
-- Bump actions/cache from 3.0.4 to 3.0.9
-
-Bumps [actions/cache](https://github.com/actions/cache) from 3.0.4 to 3.0.9.
-- [Release notes](https://github.com/actions/cache/releases)
-- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
-- [Commits](https://github.com/actions/cache/compare/v3.0.4...v3.0.9)
+Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 2.0.0 to 2.1.0.
+- [Release notes](https://github.com/docker/setup-qemu-action/releases)
+- [Commits](https://github.com/docker/setup-qemu-action/compare/v2.0.0...v2.1.0)
 
 ---
 updated-dependencies:
-- dependency-name: actions/cache
+- dependency-name: docker/setup-qemu-action
   dependency-type: direct:production
-  update-type: version-update:semver-patch
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Bump actions/stale from 5 to 6
+- Bump docker/build-push-action from 3.0.0 to 3.2.0
 
-Bumps [actions/stale](https://github.com/actions/stale) from 5 to 6.
-- [Release notes](https://github.com/actions/stale/releases)
-- [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/stale/compare/v5...v6)
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 3.0.0 to 3.2.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v3.0.0...v3.2.0)
 
 ---
 updated-dependencies:
-- dependency-name: actions/stale
+- dependency-name: docker/build-push-action
   dependency-type: direct:production
-  update-type: version-update:semver-major
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Update build.json 
+- Bump docker/setup-buildx-action from 2.0.0 to 2.1.0
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.0.0 to 2.1.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.0.0...v2.1.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump docker/login-action from 2.0.0 to 2.1.0
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from 2.0.0 to 2.1.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v2.0.0...v2.1.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 

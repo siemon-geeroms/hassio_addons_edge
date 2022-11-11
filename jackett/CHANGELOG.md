@@ -1,4 +1,41 @@
 # Changelog since 0.20.2094
+- Update to base 6.1.3 
+- Update to Jackett v0.20.2236 
+- Merge pull request #60 from haberda/dependabot/github_actions/docker/setup-buildx-action-2.2.1
+
+Bump docker/setup-buildx-action from 2.1.0 to 2.2.1 
+- Merge pull request #58 from haberda/dependabot/github_actions/actions/cache-3.0.11
+
+Bump actions/cache from 3.0.10 to 3.0.11 
+- Bump docker/setup-buildx-action from 2.1.0 to 2.2.1
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.1.0 to 2.2.1.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.1.0...v2.2.1)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump actions/cache from 3.0.10 to 3.0.11
+
+Bumps [actions/cache](https://github.com/actions/cache) from 3.0.10 to 3.0.11.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v3.0.10...v3.0.11)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #57 from haberda/dependabot/github_actions/docker/login-action-2.1.0
 
 Bump docker/login-action from 2.0.0 to 2.1.0 

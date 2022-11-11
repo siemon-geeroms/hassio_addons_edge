@@ -1,4 +1,58 @@
 # Changelog since 4.7.8
+- Merge pull request #63 from haberda/dependabot/github_actions/peter-evans/repository-dispatch-2.1.0
+
+Bump peter-evans/repository-dispatch from 1.1.3 to 2.1.0 
+- Merge pull request #61 from haberda/dependabot/github_actions/docker/setup-buildx-action-2.2.1
+
+Bump docker/setup-buildx-action from 2.1.0 to 2.2.1 
+- Merge pull request #59 from haberda/dependabot/github_actions/actions/cache-3.0.11
+
+Bump actions/cache from 3.0.10 to 3.0.11 
+- Update base to 8.1.2 
+- Update to Emby 4.7.9.0 
+- Bump peter-evans/repository-dispatch from 1.1.3 to 2.1.0
+
+Bumps [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) from 1.1.3 to 2.1.0.
+- [Release notes](https://github.com/peter-evans/repository-dispatch/releases)
+- [Commits](https://github.com/peter-evans/repository-dispatch/compare/v1.1.3...v2.1.0)
+
+---
+updated-dependencies:
+- dependency-name: peter-evans/repository-dispatch
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump docker/setup-buildx-action from 2.1.0 to 2.2.1
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.1.0 to 2.2.1.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.1.0...v2.2.1)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump actions/cache from 3.0.10 to 3.0.11
+
+Bumps [actions/cache](https://github.com/actions/cache) from 3.0.10 to 3.0.11.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v3.0.10...v3.0.11)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #58 from haberda/dependabot/github_actions/docker/build-push-action-3.2.0
 
 Bump docker/build-push-action from 3.1.1 to 3.2.0 

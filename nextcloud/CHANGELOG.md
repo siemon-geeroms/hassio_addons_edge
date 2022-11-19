@@ -1,4 +1,5 @@
 # Changelog since v24.0.4
+- Update run.sh 
 - Update to 25.0.1 upstream 
 - Update to 25.0.1 upstream 
 - Merge pull request #75 from haberda/dependabot/github_actions/peter-evans/repository-dispatch-2.1.0

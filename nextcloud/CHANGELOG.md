@@ -1,4 +1,10 @@
 # Changelog since v24.0.4
+- Update Dockerfile 
+- Testing 
+- Update Dockerfile 
+- Delete nextcloud/root directory 
+- Update run.sh 
+- Update build.json 
 - Update run.sh 
 - Update to 25.0.1 upstream 
 - Update to 25.0.1 upstream 

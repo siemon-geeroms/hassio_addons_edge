@@ -1,4 +1,5 @@
 # Changelog since v24.0.4
+- Fix broken nginx 
 - Update Dockerfile 
 - Testing 
 - Update Dockerfile 

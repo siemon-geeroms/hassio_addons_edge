@@ -1,4 +1,5 @@
 # Changelog since v24.0.4
+- Update run.sh 
 - Update Dockerfile 
 - Fix broken nginx 
 - Update Dockerfile 

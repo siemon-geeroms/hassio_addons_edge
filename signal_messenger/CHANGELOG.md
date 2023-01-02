@@ -1,4 +1,10 @@
 # Changelog since 0.64.0
+- Update Dockerfile
+
+Update to upstream 0.65 
+- Update build.json
+
+Update to upstream 0.65 
 - Merge pull request #69 from haberda/dependabot/github_actions/actions/stale-7
 
 Bump actions/stale from 6 to 7 

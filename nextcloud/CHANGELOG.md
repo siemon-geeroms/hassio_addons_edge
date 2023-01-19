@@ -1,4 +1,5 @@
 # Changelog since v25.0.1
+- Update to base 25.0.3 
 - Merge pull request #83 from haberda/dependabot/github_actions/release-drafter/release-drafter-5.22.0
 
 Bump release-drafter/release-drafter from 5.21.1 to 5.22.0 

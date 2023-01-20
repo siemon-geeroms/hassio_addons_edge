@@ -1,4 +1,7 @@
 # Changelog since v25.0.1
+- Set an alias for php7 
+
+catch any lingering deprecation issues 
 - Merge pull request #85 from haberda/dependabot/github_actions/docker/build-push-action-3.3.0
 
 Bump docker/build-push-action from 3.2.0 to 3.3.0 

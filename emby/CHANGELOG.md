@@ -1,11 +1,70 @@
-## What's Changed
-* Bump actions/cache from 3.0.11 to 3.2.2 by @dependabot in https://github.com/haberda/emby-addon/pull/68
-* Bump actions/stale from 6.0.1 to 7.0.0 by @dependabot in https://github.com/haberda/emby-addon/pull/65
-* Bump peter-evans/repository-dispatch from 2.1.0 to 2.1.1 by @dependabot in https://github.com/haberda/emby-addon/pull/64
-* Bump actions/cache from 3.2.2 to 3.2.3 by @dependabot in https://github.com/haberda/emby-addon/pull/69
+# Changelog since 4.7.11
+- Merge pull request #71 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.11
 
+Bump frenck/action-addon-linter from 2.10 to 2.11 
+- Merge pull request #74 from haberda/dependabot/github_actions/docker/build-push-action-4.0.0
 
-**Full Changelog**: https://github.com/haberda/emby-addon/compare/4.7.9...4.7.11
+Bump docker/build-push-action from 3.2.0 to 4.0.0 
+- Merge pull request #76 from haberda/dependabot/github_actions/docker/setup-buildx-action-2.4.1
 
-## Deprecation warning
-* This will be the final release of this add-on
+Bump docker/setup-buildx-action from 2.2.1 to 2.4.1 
+- Merge pull request #77 from haberda/dependabot/github_actions/actions/cache-3.2.5
+
+Bump actions/cache from 3.2.3 to 3.2.5 
+- Bump actions/cache from 3.2.3 to 3.2.5
+
+Bumps [actions/cache](https://github.com/actions/cache) from 3.2.3 to 3.2.5.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v3.2.3...v3.2.5)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump docker/setup-buildx-action from 2.2.1 to 2.4.1
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.2.1 to 2.4.1.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.2.1...v2.4.1)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump docker/build-push-action from 3.2.0 to 4.0.0
+
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 3.2.0 to 4.0.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v3.2.0...v4.0.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/build-push-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump frenck/action-addon-linter from 2.10 to 2.11
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.10 to 2.11.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.10...v2.11)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 

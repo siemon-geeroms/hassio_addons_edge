@@ -1,4 +1,24 @@
 # Changelog since 0.20.2267
+- Merge pull request #75 from haberda/dependabot/github_actions/actions/cache-3.2.6
+
+Bump actions/cache from 3.2.5 to 3.2.6 
+- Update base image to 6.2.3 
+- Update Jackett to v0.20.3463 
+- Bump actions/cache from 3.2.5 to 3.2.6
+
+Bumps [actions/cache](https://github.com/actions/cache) from 3.2.5 to 3.2.6.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v3.2.5...v3.2.6)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Update base image to 6.2.1 
 - Update to Jackett v0.20.3017 
 - Merge pull request #68 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.11

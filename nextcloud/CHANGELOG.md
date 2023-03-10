@@ -1,4 +1,60 @@
 # Changelog since 25.0.3
+- Merge pull request #95 from haberda/dependabot/github_actions/actions/cache-3.3.0
+
+Bump actions/cache from 3.2.6 to 3.3.0 
+- Remove execution permission for file that was removed upstream 
+- Bump actions/cache from 3.2.6 to 3.3.0
+
+Bumps [actions/cache](https://github.com/actions/cache) from 3.2.6 to 3.3.0.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v3.2.6...v3.3.0)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Update base to 25.0.4 
+- Update to base 25.0.4 
+- Merge pull request #93 from haberda/dependabot/github_actions/actions/cache-3.2.6
+
+Bump actions/cache from 3.2.5 to 3.2.6 
+- Merge pull request #94 from haberda/dependabot/github_actions/release-drafter/release-drafter-5.23.0
+
+Bump release-drafter/release-drafter from 5.22.0 to 5.23.0 
+- Bump release-drafter/release-drafter from 5.22.0 to 5.23.0
+
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from 5.22.0 to 5.23.0.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.22.0...v5.23.0)
+
+---
+updated-dependencies:
+- dependency-name: release-drafter/release-drafter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump actions/cache from 3.2.5 to 3.2.6
+
+Bumps [actions/cache](https://github.com/actions/cache) from 3.2.5 to 3.2.6.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v3.2.5...v3.2.6)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #90 from haberda/dependabot/github_actions/docker/build-push-action-4.0.0
 
 Bump docker/build-push-action from 3.3.0 to 4.0.0 

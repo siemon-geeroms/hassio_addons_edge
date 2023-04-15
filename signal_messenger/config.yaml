@@ -1,0 +1,27 @@
+arch:
+- aarch64
+- amd64
+- armv7
+boot: manual
+description: Signal Messenger for Home Assistant
+environment:
+  SIGNAL_CLI_CONFIG_DIR: /data
+image: ghcr.io/haberda/signal_messenger/{arch}
+name: Signal Messenger
+options:
+  AUTO_RECEIVE: true
+  SIGNAL_CLI_CMD_TIMEOUT: 60
+  mode: list(normal|native|json-rpc)
+ports:
+  8080/tcp: 8080
+ports_description:
+  8080/tcp: Rest-api port
+schema:
+  AUTO_RECEIVE: bool
+  SIGNAL_CLI_CMD_TIMEOUT: int
+  mode: list(normal|native|json-rpc)
+  reset_data: bool?
+slug: signal_messenger
+startup: system
+url: https://github.com/haberda/signal-addon/tree/master/
+version: aaf4794

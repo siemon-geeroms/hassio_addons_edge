@@ -1,4 +1,15 @@
 # Changelog since 0.65.0
+- Convert config files to yaml 
+- Update deploy.yaml 
+- Update Dockerfile 
+- Update ci.yaml 
+- Update Dockerfile 
+- Update ci.yaml 
+- Align with latest upstream
+
+Attempting to fix broken workflow by aligning with the upstream workflows 
+- Update to 0.66 upstream 
+- Update to 0.66 upstream 
 - Merge pull request #88 from haberda/dependabot/github_actions/actions/stale-8
 
 Bump actions/stale from 7 to 8 

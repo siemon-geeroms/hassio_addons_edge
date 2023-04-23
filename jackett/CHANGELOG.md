@@ -1,4 +1,12 @@
 # Changelog since 0.20.2267
+- Fix bad yaml 
+- Attempt to fix CI workflow 
+- Create build.yaml 
+- Delete build.json 
+- Align CI with upstream
+
+Hopefully fixes broken build CI 
+- Update to Jackett v0.20.3717 
 - Merge pull request #77 from haberda/dependabot/github_actions/docker/setup-buildx-action-2.5.0
 
 Bump docker/setup-buildx-action from 2.4.1 to 2.5.0 

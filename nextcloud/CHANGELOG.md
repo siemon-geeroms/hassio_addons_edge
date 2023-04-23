@@ -1,4 +1,5 @@
 # Changelog since 25.0.3
+- Correct permissions for s6 v3 
 - Attempt to fix CI workflow 
 - Update upstream container to 26.0.0 
 - Merge pull request #98 from haberda/dependabot/github_actions/actions/stale-8

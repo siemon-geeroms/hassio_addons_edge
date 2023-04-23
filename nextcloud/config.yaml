@@ -1,0 +1,29 @@
+arch:
+- aarch64
+- amd64
+- armv7
+backup_exclude:
+- '*/nextcloud/log/'
+boot: manual
+description: Nextcloud for Home Assistant
+image: ghcr.io/haberda/nextcloud/{arch}
+init: false
+map:
+- share:rw
+- media:rw
+- ssl:rw
+name: Nextcloud for Home Assistant
+panel_icon: mdi:cloud
+ports:
+  443/tcp: 8099
+  80/tcp: null
+ports_description:
+  443/tcp: https port
+  80/tcp: http port
+privileged:
+- SYS_ADMIN
+slug: nextcloud
+startup: system
+url: https://github.com/haberda/hassio_addons/tree/master/nextcloud
+version: 1a53f55
+webui: https://[HOST]:[PORT:443]

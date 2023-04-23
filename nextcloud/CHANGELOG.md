@@ -1,4 +1,6 @@
 # Changelog since 25.0.3
+- Attempt to fix CI workflow 
+- Update upstream container to 26.0.0 
 - Merge pull request #98 from haberda/dependabot/github_actions/actions/stale-8
 
 Bump actions/stale from 7 to 8 

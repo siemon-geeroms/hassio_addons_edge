@@ -1,4 +1,5 @@
 # Changelog since 25.0.3
+- Revert symlink strategy and return to sed 
 - Correct permissions for s6 v3 
 - Attempt to fix CI workflow 
 - Update upstream container to 26.0.0 

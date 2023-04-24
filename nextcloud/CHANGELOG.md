@@ -1,4 +1,6 @@
 # Changelog since 25.0.3
+- Merge branch 'main' of https://github.com/haberda/nextcloud-addon 
+- Overwrite nginx configs with defaults 
 - Merge pull request #99 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.12.0
 
 Bump frenck/action-addon-linter from 2.11.0 to 2.12.0 

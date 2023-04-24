@@ -1,4 +1,24 @@
 # Changelog since 25.0.3
+- Merge pull request #99 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.12.0
+
+Bump frenck/action-addon-linter from 2.11.0 to 2.12.0 
+- Converge with other addon
+
+Converges most of the changes necessary for new upstream with the alexbelgium version. 
+- Bump frenck/action-addon-linter from 2.11.0 to 2.12.0
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.11.0 to 2.12.0.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.11.0...v2.12.0)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Update Dockerfile 
 - Revert symlink strategy and return to sed 
 - Correct permissions for s6 v3 

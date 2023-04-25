@@ -1,4 +1,5 @@
 # Changelog since 4.7.11
+- Update config.yaml 
 - Fix CI workflow 
 - Merge pull request #80 from haberda/dependabot/github_actions/docker/setup-buildx-action-2.5.0
 

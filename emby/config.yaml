@@ -22,37 +22,28 @@ map:
 - media:rw
 - ssl:rw
 name: emby
-options:
-  cifspassword: <password>
-  cifsusername: <username>
-  cifsversion: 3.0
-  networkdisks: null
 ports:
-  1900/udp: 1900
-  33791/tcp: 33791
-  33796/tcp: 33796
-  7359/udp: 7359
+  33791/tcp: null
+  33796/tcp: null
   8096/tcp: 8096
   8920/tcp: 8920
 ports_description:
-  1900/udp: '1900'
   33791/tcp: external http webui
   33796/tcp: external https webui
-  7359/udp: '7359'
   8096/tcp: http webui
   8920/tcp: https webui
 privileged:
 - SYS_ADMIN
 - DAC_READ_SEARCH
 schema:
-  cifspassword: str
-  cifsusername: str
+  cifspassword: str?
+  cifsusername: str?
   cifsversion: list(3.0|2.1|2.0|1.0)?
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   networkdisks:
-  - str
+  - str?
 slug: emby
 startup: system
 url: https://github.com/haberda/emby-addon
-version: 6ad6e9c
+version: c104f94
 webui: http://[HOST]:[PORT:8096]

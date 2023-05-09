@@ -25,5 +25,5 @@ privileged:
 slug: nextcloud
 startup: system
 url: https://github.com/haberda/hassio_addons/tree/master/nextcloud
-version: c61977e
+version: a8c91ab
 webui: https://[HOST]:[PORT:443]

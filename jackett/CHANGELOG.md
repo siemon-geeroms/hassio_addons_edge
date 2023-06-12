@@ -1,4 +1,21 @@
 # Changelog since 0.20.3968
+- Merge pull request #86 from haberda/dependabot/github_actions/docker/build-push-action-4.1.0
+
+Bump docker/build-push-action from 4.0.0 to 4.1.0 
+- Bump docker/build-push-action from 4.0.0 to 4.1.0
+
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 4.0.0 to 4.1.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v4.0.0...v4.1.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/build-push-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #83 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.13.1
 
 Bump frenck/action-addon-linter from 2.12.0 to 2.13.1 

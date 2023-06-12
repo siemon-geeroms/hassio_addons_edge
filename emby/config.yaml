@@ -45,5 +45,5 @@ schema:
 slug: emby
 startup: system
 url: https://github.com/haberda/emby-addon
-version: e0d5c4f
+version: cbce478
 webui: http://[HOST]:[PORT:8096]

@@ -1,4 +1,5 @@
 # Changelog since 0.66.0
+- Update to upstream 0.67 
 - Merge pull request #95 from haberda/dependabot/github_actions/docker/build-push-action-4.1.0
 
 Bump docker/build-push-action from 4.0.0 to 4.1.0 

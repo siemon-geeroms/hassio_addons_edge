@@ -24,4 +24,4 @@ schema:
 slug: signal_messenger
 startup: system
 url: https://github.com/haberda/signal-addon/tree/master/
-version: 9c60309
+version: 93192b8

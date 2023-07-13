@@ -42,5 +42,5 @@ schema:
 slug: jackett
 startup: services
 url: https://github.com/haberda/jackett-addon
-version: ee21487
+version: ac19f79
 webui: http://[HOST]:[PORT:9117]

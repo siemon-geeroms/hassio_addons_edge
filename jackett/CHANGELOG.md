@@ -1,4 +1,6 @@
 # Changelog since 0.20.3968
+- Create type 
+- Create type 
 - Merge pull request #92 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.13.2
 
 Bump frenck/action-addon-linter from 2.13.1 to 2.13.2 

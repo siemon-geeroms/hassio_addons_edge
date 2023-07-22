@@ -1,4 +1,22 @@
 # Changelog since 4.7.11
+- Merge pull request #95 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.13.2
+
+Bump frenck/action-addon-linter from 2.13.1 to 2.13.2 
+- Merge branch 'main' of https://github.com/haberda/emby-addon 
+- Bump frenck/action-addon-linter from 2.13.1 to 2.13.2
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.13.1 to 2.13.2.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.13.1...v2.13.2)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #90 from haberda/dependabot/github_actions/docker/build-push-action-4.1.1
 
 Bump docker/build-push-action from 4.1.0 to 4.1.1 
@@ -19,6 +37,9 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
+- Update Dockerfile
+
+Update emby to 4.7.13.0 
 - Bump docker/build-push-action from 4.1.0 to 4.1.1
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 4.1.0 to 4.1.1.

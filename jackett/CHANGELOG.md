@@ -1,4 +1,5 @@
 # Changelog since 0.20.3968
+- Point to ghcr image 
 - Migrate more to new s6 overlay 
 - Create type 
 - Create type 

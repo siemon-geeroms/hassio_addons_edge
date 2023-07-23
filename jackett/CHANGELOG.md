@@ -1,4 +1,5 @@
 # Changelog since 0.20.3968
+- Make s6-overlay executable 
 - Update 30-nginx.sh 
 - Point to ghcr image 
 - Migrate more to new s6 overlay 

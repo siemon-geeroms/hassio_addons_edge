@@ -1,4 +1,5 @@
 # Changelog since 0.20.3968
+- Migrate more to new s6 overlay 
 - Create type 
 - Create type 
 - Merge pull request #92 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.13.2

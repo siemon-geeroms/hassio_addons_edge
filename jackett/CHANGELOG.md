@@ -1,4 +1,5 @@
 # Changelog since 0.20.3968
+- Update 30-nginx.sh 
 - Point to ghcr image 
 - Migrate more to new s6 overlay 
 - Create type 

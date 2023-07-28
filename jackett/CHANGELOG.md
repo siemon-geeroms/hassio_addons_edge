@@ -1,4 +1,5 @@
 # Changelog since 0.20.3968
+- Update to Jackett v0.21.551 
 - Make s6-overlay executable 
 - Update 30-nginx.sh 
 - Point to ghcr image 

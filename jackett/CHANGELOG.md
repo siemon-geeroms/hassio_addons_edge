@@ -1,4 +1,41 @@
 # Changelog since 0.21.551
+- Merge branch 'main' of https://github.com/haberda/jackett-addon 
+- Fix typo 
+- Merge pull request #100 from haberda/dependabot/github_actions/docker/login-action-3.0.0
+
+Bump docker/login-action from 2.2.0 to 3.0.0 
+- Merge pull request #101 from haberda/dependabot/github_actions/docker/setup-qemu-action-3
+
+Bump docker/setup-qemu-action from 2 to 3 
+- Update Jackett to 0.21.987 
+- Bump docker/setup-qemu-action from 2 to 3
+
+Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 2 to 3.
+- [Release notes](https://github.com/docker/setup-qemu-action/releases)
+- [Commits](https://github.com/docker/setup-qemu-action/compare/v2...v3)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-qemu-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump docker/login-action from 2.2.0 to 3.0.0
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from 2.2.0 to 3.0.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v2.2.0...v3.0.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #94 from haberda/dependabot/github_actions/actions/checkout-4
 
 Bump actions/checkout from 3 to 4 

@@ -1,4 +1,5 @@
 # Changelog since 0.21.551
+- Update to Jackett v0.21.1011 
 - Merge branch 'main' of https://github.com/haberda/jackett-addon 
 - Fix typo 
 - Merge pull request #100 from haberda/dependabot/github_actions/docker/login-action-3.0.0

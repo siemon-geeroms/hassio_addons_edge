@@ -1,6 +1,6 @@
 name: emby
 url: https://github.com/haberda/emby-addon
-version: bd05f82
+version: 3368db8
 slug: emby
 privileged:
 - SYS_ADMIN

@@ -1,4 +1,5 @@
 # Changelog since 0.21.1011
+- Update Jackett to v0.21.1318 
 - Merge pull request #102 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.15.0
 
 Bump frenck/action-addon-linter from 2.13.2 to 2.15.0 

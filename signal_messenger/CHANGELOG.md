@@ -1,4 +1,23 @@
 # Changelog since 0.70.0
+- Update to 0.80 upstream 
+- Merge pull request #115 from haberda/dependabot/github_actions/actions/stale-9
+
+Bump actions/stale from 8 to 9 
+- Bump actions/stale from 8 to 9
+
+Bumps [actions/stale](https://github.com/actions/stale) from 8 to 9.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/stale/compare/v8...v9)
+
+---
+updated-dependencies:
+- dependency-name: actions/stale
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #113 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.15.0
 
 Bump frenck/action-addon-linter from 2.13.2 to 2.15.0 

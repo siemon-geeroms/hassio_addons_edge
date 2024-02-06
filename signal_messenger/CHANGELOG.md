@@ -1,4 +1,8 @@
 # Changelog since 0.80.0
+- Update startup condition
+
+Update startup condition to align with what is really required. Services is more appropriate and still starts before Home Assistant. 
+- Fix typo 
 - Clean up from data migration changes 
 - Merge branch 'main' of https://github.com/haberda/signal-addon 
 - Be more forceful about data migration 

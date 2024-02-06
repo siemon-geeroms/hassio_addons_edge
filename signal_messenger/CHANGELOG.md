@@ -1,4 +1,6 @@
 # Changelog since 0.80.0
+- Merge branch 'main' of https://github.com/haberda/signal-addon 
+- Be more forceful about data migration 
 - Merge pull request #119 from haberda/dependabot/github_actions/peter-evans/repository-dispatch-3.0.0
 
 Bump peter-evans/repository-dispatch from 2.1.2 to 3.0.0 

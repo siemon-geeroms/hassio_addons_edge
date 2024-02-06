@@ -1,4 +1,5 @@
 # Changelog since 0.80.0
+- Update to upstream 0.81 
 - Update startup condition
 
 Update startup condition to align with what is really required. Services is more appropriate and still starts before Home Assistant. 

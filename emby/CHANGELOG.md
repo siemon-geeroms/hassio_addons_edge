@@ -1,4 +1,12 @@
 # Changelog since 4.7.11
+- Remove armv7 support 
+- Remove apparmor
+
+No longer needed due to deprecation of SMB support. 
+- Merge branch 'main' of https://github.com/haberda/emby-addon 
+- Refactor add-on
+
+This removes unnecessary config options, removes SMB share mounting (hassos does this now), and moves the emby config to the new add-on config folder. This also sets emby to use the host network so UPnP will work. Finally, it updates to emby 4.8.3.0 and the upstream base image to 9.0.4. 
 - Merge pull request #113 from haberda/dependabot/github_actions/actions/cache-4.0.1
 
 Bump actions/cache from 3.3.2 to 4.0.1 

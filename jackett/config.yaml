@@ -1,5 +1,5 @@
 name: Jackett
-version: 720c55d
+version: 03b713f
 slug: jackett
 description: Jackett for Home Assistant
 url: https://github.com/haberda/jackett-addon

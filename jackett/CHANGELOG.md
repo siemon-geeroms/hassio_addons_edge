@@ -1,4 +1,6 @@
 # Changelog since 0.21.1510
+- Update Jackett to v0.21.2031 
+- Update base image to 7.3.3 
 - Merge pull request #111 from haberda/dependabot/github_actions/actions/cache-4.0.1
 
 Bump actions/cache from 3.3.2 to 4.0.1 

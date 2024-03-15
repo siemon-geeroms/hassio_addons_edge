@@ -1,6 +1,6 @@
 name: emby
 url: https://github.com/haberda/emby-addon
-version: bc944a0
+version: bc4a830
 slug: emby
 arch:
 - aarch64

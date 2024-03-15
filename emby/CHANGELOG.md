@@ -1,4 +1,5 @@
 # Changelog since 4.7.11
+- Temporarily revert to base image 8.2.1 
 - Remove armv7 support 
 - Remove apparmor
 

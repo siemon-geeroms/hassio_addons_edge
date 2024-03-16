@@ -1,62 +1,68 @@
-# Changelog since 0.80.0
-- Update to upstream 0.81 
-- Update startup condition
+# Changelog since 0.81.0
+- Merge pull request #125 from haberda/dependabot/github_actions/actions/cache-4.0.1
 
-Update startup condition to align with what is really required. Services is more appropriate and still starts before Home Assistant. 
-- Fix typo 
-- Clean up from data migration changes 
-- Merge branch 'main' of https://github.com/haberda/signal-addon 
-- Be more forceful about data migration 
-- Merge pull request #119 from haberda/dependabot/github_actions/peter-evans/repository-dispatch-3.0.0
+Bump actions/cache from 4.0.0 to 4.0.1 
+- Merge pull request #127 from haberda/dependabot/github_actions/docker/login-action-3.1.0
 
-Bump peter-evans/repository-dispatch from 2.1.2 to 3.0.0 
-- Merge pull request #118 from haberda/dependabot/github_actions/actions/cache-4.0.0
+Bump docker/login-action from 3.0.0 to 3.1.0 
+- Merge pull request #128 from haberda/dependabot/github_actions/docker/build-push-action-5.3.0
 
-Bump actions/cache from 3.3.2 to 4.0.0 
-- Migrate data storage to new addon_config location
+Bump docker/build-push-action from 5.1.0 to 5.3.0 
+- Merge pull request #129 from haberda/dependabot/github_actions/docker/setup-buildx-action-3.2.0
 
-Also remove reset data option because the user can now manage their own data. 
-- Bump peter-evans/repository-dispatch from 2.1.2 to 3.0.0
+Bump docker/setup-buildx-action from 3.0.0 to 3.2.0 
+- Bump docker/setup-buildx-action from 3.0.0 to 3.2.0
 
-Bumps [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) from 2.1.2 to 3.0.0.
-- [Release notes](https://github.com/peter-evans/repository-dispatch/releases)
-- [Commits](https://github.com/peter-evans/repository-dispatch/compare/v2.1.2...v3.0.0)
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 3.0.0 to 3.2.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v3.0.0...v3.2.0)
 
 ---
 updated-dependencies:
-- dependency-name: peter-evans/repository-dispatch
+- dependency-name: docker/setup-buildx-action
   dependency-type: direct:production
-  update-type: version-update:semver-major
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Bump actions/cache from 3.3.2 to 4.0.0
+- Bump docker/build-push-action from 5.1.0 to 5.3.0
 
-Bumps [actions/cache](https://github.com/actions/cache) from 3.3.2 to 4.0.0.
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 5.1.0 to 5.3.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v5.1.0...v5.3.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/build-push-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump docker/login-action from 3.0.0 to 3.1.0
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from 3.0.0 to 3.1.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v3.0.0...v3.1.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump actions/cache from 4.0.0 to 4.0.1
+
+Bumps [actions/cache](https://github.com/actions/cache) from 4.0.0 to 4.0.1.
 - [Release notes](https://github.com/actions/cache/releases)
 - [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
-- [Commits](https://github.com/actions/cache/compare/v3.3.2...v4.0.0)
+- [Commits](https://github.com/actions/cache/compare/v4.0.0...v4.0.1)
 
 ---
 updated-dependencies:
 - dependency-name: actions/cache
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #116 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.15.1
-
-Bump frenck/action-addon-linter from 2.15.0 to 2.15.1 
-- Bump frenck/action-addon-linter from 2.15.0 to 2.15.1
-
-Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.15.0 to 2.15.1.
-- [Release notes](https://github.com/frenck/action-addon-linter/releases)
-- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.15.0...v2.15.1)
-
----
-updated-dependencies:
-- dependency-name: frenck/action-addon-linter
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...

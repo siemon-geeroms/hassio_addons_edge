@@ -1,4 +1,23 @@
 # Changelog since 0.81.0
+- Merge pull request #130 from haberda/dependabot/github_actions/actions/cache-4.0.2
+
+Bump actions/cache from 4.0.1 to 4.0.2 
+- Update to 0.82 upstream 
+- Bump actions/cache from 4.0.1 to 4.0.2
+
+Bumps [actions/cache](https://github.com/actions/cache) from 4.0.1 to 4.0.2.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v4.0.1...v4.0.2)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #125 from haberda/dependabot/github_actions/actions/cache-4.0.1
 
 Bump actions/cache from 4.0.0 to 4.0.1 

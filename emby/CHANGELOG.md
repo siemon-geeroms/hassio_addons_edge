@@ -1,4 +1,39 @@
 # Changelog since 4.7.11
+- Merge pull request #118 from haberda/dependabot/github_actions/actions/cache-4.0.2
+
+Bump actions/cache from 4.0.1 to 4.0.2 
+- Merge pull request #119 from haberda/dependabot/github_actions/docker/setup-buildx-action-3.3.0
+
+Bump docker/setup-buildx-action from 3.2.0 to 3.3.0 
+- Bump docker/setup-buildx-action from 3.2.0 to 3.3.0
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 3.2.0 to 3.3.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v3.2.0...v3.3.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump actions/cache from 4.0.1 to 4.0.2
+
+Bumps [actions/cache](https://github.com/actions/cache) from 4.0.1 to 4.0.2.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v4.0.1...v4.0.2)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Temporarily revert to base image 8.2.1 
 - Remove armv7 support 
 - Remove apparmor

@@ -1,4 +1,5 @@
 # Changelog since 0.83.0
+- Update to 0.84 upstream 
 - Merge pull request #132 from haberda/dependabot/github_actions/docker/setup-buildx-action-3.3.0
 
 Bump docker/setup-buildx-action from 3.2.0 to 3.3.0 

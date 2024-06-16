@@ -1,4 +1,6 @@
 # Changelog since 0.21.2031
+- Update base image to 7.3.4 
+- Update to Jackett to v0.22.136 
 - Merge pull request #117 from haberda/dependabot/github_actions/docker/setup-buildx-action-3.3.0
 
 Bump docker/setup-buildx-action from 3.2.0 to 3.3.0 

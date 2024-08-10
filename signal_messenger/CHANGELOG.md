@@ -1,4 +1,7 @@
 # Changelog since 0.86.0
+- Remove data migration check
+
+The data should have long ago migrated 
 - Merge pull request #152 from haberda/dependabot/github_actions/docker/build-push-action-6.6.1
 
 Bump docker/build-push-action from 6.5.0 to 6.6.1 

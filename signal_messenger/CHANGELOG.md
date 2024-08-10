@@ -1,4 +1,5 @@
 # Changelog since 0.86.0
+- Remove migration check 
 - Remove data migration check
 
 The data should have long ago migrated 

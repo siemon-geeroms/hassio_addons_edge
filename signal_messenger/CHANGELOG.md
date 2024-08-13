@@ -1,4 +1,5 @@
 # Changelog since 0.86.0
+- Update to 0.88 upstream 
 - Remove migration check 
 - Remove data migration check
 

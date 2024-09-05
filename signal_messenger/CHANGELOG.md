@@ -1,17 +1,12 @@
-# Changelog since 0.86.0
-- Update to 0.88 upstream 
-- Remove migration check 
-- Remove data migration check
+# Changelog since 0.88.0
+- Merge pull request #154 from haberda/dependabot/github_actions/docker/build-push-action-6.7.0
 
-The data should have long ago migrated 
-- Merge pull request #152 from haberda/dependabot/github_actions/docker/build-push-action-6.6.1
+Bump docker/build-push-action from 6.6.1 to 6.7.0 
+- Bump docker/build-push-action from 6.6.1 to 6.7.0
 
-Bump docker/build-push-action from 6.5.0 to 6.6.1 
-- Bump docker/build-push-action from 6.5.0 to 6.6.1
-
-Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 6.5.0 to 6.6.1.
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 6.6.1 to 6.7.0.
 - [Release notes](https://github.com/docker/build-push-action/releases)
-- [Commits](https://github.com/docker/build-push-action/compare/v6.5.0...v6.6.1)
+- [Commits](https://github.com/docker/build-push-action/compare/v6.6.1...v6.7.0)
 
 ---
 updated-dependencies:

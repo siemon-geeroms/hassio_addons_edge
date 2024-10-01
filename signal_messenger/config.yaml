@@ -1,6 +1,6 @@
 name: Signal Messenger
-url: https://github.com/haberda/signal-addon/tree/master/
-version: d2c4775
+url: https://github.com/siemon.geeroms/signal-addon/tree/master/
+version: 0.168-dev
 slug: signal_messenger
 arch:
 - aarch64
@@ -24,4 +24,4 @@ schema:
   SIGNAL_CLI_CMD_TIMEOUT: int
 environment:
   SIGNAL_CLI_CONFIG_DIR: /config
-image: ghcr.io/haberda/signal_messenger/{arch}
+image: ghcr.io/siemon.geeroms/signal_messenger/{arch}
